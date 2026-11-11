@@ -1,3 +1,5 @@
+![BREW Logo](chilll.png)
+
 ☕ BREW The Coffee Meme
 A global coffee meme community.
 BREW brings internet humor and coffee lovers together through memes, creativity, and community.
